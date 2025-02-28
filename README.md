@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dipak-8/DSA-Array/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dipak-8/DSA-Array/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Dipak-8/DSA-Array/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/Dipak-8/DSA-Array/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Dipak-8/DSA-Array/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Dipak-8/DSA-Array/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Dipak-8/DSA-Array/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
