@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipak-8/DSA-Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dipak-8/DSA-Array/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Dipak-8/DSA-Array/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Dipak-8/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dipak-8/DSA-Array/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Dipak-8/DSA-Array/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Dipak-8/DSA-Array/tree/master/0238-product-of-array-except-self) |
@@ -63,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dipak-8/DSA-Array/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Dipak-8/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dipak-8/DSA-Array/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dipak-8/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
