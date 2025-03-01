@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dipak-8/DSA-Array/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Dipak-8/DSA-Array/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Dipak-8/DSA-Array/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Dipak-8/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dipak-8/DSA-Array/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Dipak-8/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dipak-8/DSA-Array/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Dipak-8/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
