@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dipak-8/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Dipak-8/DSA-Array/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipak-8/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dipak-8/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dipak-8/DSA-Array/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipak-8/DSA-Array/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dipak-8/DSA-Array/tree/master/0075-sort-colors) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dipak-8/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dipak-8/DSA-Array/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dipak-8/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
