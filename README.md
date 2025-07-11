@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dipak-8/DSA-Array/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Dipak-8/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Dipak-8/DSA-Array/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Dipak-8/DSA-Array/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipak-8/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dipak-8/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dipak-8/DSA-Array/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Dipak-8/DSA-Array/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipak-8/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -115,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipak-8/DSA-Array/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Dipak-8/DSA-Array/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipak-8/DSA-Array/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Dipak-8/DSA-Array/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
